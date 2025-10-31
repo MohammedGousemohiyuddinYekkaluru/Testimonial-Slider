@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
+#container{
+    width: 100%;
+    max-width: 500px;
+    border-radius: 15px ;
+    background-color: blueviolet;
+    text-align: center;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 20px;
+}
+
+p{
+    margin: 20px 0;
+}
